@@ -12,6 +12,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.amplify.stocktrailingaveragecalculator.ui.theme.StockTrailingAverageCalculatorTheme
 
+// July 12
+// August 9
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
