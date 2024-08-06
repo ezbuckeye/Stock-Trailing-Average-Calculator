@@ -12,8 +12,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.amplify.stocktrailingaveragecalculator.ui.theme.StockTrailingAverageCalculatorTheme
 
-// July 12
-// August 9
+// calculating Simple Moving Average (SMA) with Polygon API
+// July 12 ==> 189.13699999999997
+// August 9 ==> 188.56466666666674
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
